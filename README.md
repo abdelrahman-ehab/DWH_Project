@@ -19,7 +19,7 @@ This project implements a scalable data warehouse using the **medallion architec
 2. Create gold views after silver transformations
 
 ## Data Architecture
-![Data Architecture](DA.png)
+![Data Architecture](main/DA.png)
 *Medallion architecture workflow: Bronze → Silver → Gold*
 
 
